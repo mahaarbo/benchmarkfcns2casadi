@@ -1,1 +1,1 @@
-from benchmark_funcs import *
+from benchmarkfcns2casadi.benchmark_funcs import *
