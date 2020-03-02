@@ -14,3 +14,4 @@ print(rosenbrock_func)
 
 * Specifying local and global minima
 * Currently only has unconstrained optimization problems, add generic constrained problems?
+* Default to using `SX`? 
