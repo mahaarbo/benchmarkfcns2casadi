@@ -8,3 +8,9 @@ import benchmarkfcns2casadi as bm
 rosenbrock_func, input_domains, minima = bm.generate_rosenbrock(n=2, a=1, b=100, data_type=cs.SX)
 print(rosenbrock_func)
 ```
+
+
+## Todo
+
+* Specifying local and global minima
+* Currently only has unconstrained optimization problems, add generic constrained problems?
